@@ -1,126 +1,52 @@
-  
-    body{
-        background-color: orange;
-    }
-    #raf{
-        background-color: white;
-        width: fit-content;
-        margin-left: 120px;
-        
-    }
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: century;
+}
+.header{
+    background-image:linear-gradient(rgba(0,0,0,0.5)),rgba(0,0,0,0.5) rgba(0,0,0,0.5), url(img/home\ page.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 30px;
+    min-height: 40px;
+    margin-right: 60px;
+    font-size: 17px;
+}
+#kam{
     
-    
-    form{        
-        width: 650px;
-        padding: 50px;
-        margin-left: 30px;
-        background-color: aqua;
-        
-    }
-    
-    
-    #yoq{
-        height: 200px;
-        
-    }
-    #dapo{
-        width: 200% ;
-        height: 30px;
-    }
-    #red{
-        width:200% ;
-        height: 30px;
-    }
-    #ra{
-        width: 200% ;
-         height: 30px;
-    }
-    #ta{
-       width:;
-       height: 100px;
-    }
-    #co{
-      width: 200%;
-      
-    }
-    #fo{
-        width: 200px;
-    }
-    #la{
-        
-        position:fixed ;
-        bottom: 10px;
-        right: 650px;
-    }
-    #ka{
-        border-radius: 20px;
-        background-color: black;
-        color: white;
-    }
-    #he{
-        text-align: center;
-    }
-    #ko{
-        width: 20px;
-        
-    }
-    #lh{
-        background-color: white;
-        width:  fit-content;
-        position: relative;
-        left: 270px;
-        top: 30px;
-        
+}
+ul li{
+    display: inline-block;
 
+}
+ul li a{
+    text-decoration: none;
+    color: brown;
+    padding: 5px 10px;
+    border: 1px solid transparent;
+    transition: 0.5 ease;
+}
+ul li a:hover{
+    background-color: black;
+    color: red;
+
+}
+
+.logo img{
+    float: left;
+    width: 50px;
+    height: auto;
+}
+.main{
+    max-width: 120px;
+    margin: auto;
     }
-    *{
-        margin: 0px;
-        padding: 0px;
-        font-family: century;
+    body{
+        background-color: coral;
     }
-    .header{
-        background-image:linear-gradient(rgba(0,0,0,0.5)),rgba(0,0,0,0.5) rgba(0,0,0,0.5), url(img/home\ page.png);
-        height: 100vh;
-        background-size: cover;
-        background-position: center;
-        min-height: 100px;
-    }
-    ul{
-        float: right;
-        list-style-type: none;
-        margin-top: 30px;
-        min-height: 40px;
-        margin-right: 60px;
-        font-size: 17px;
-    }
-    #kam{
-        
-    }
-    ul li{
-        display: inline-block;
-    
-    }
-    ul li a{
-        text-decoration: none;
-        color: brown;
-        padding: 5px 10px;
-        border: 1px solid transparent;
-        transition: 0.5 ease;
-    }
-    ul li a:hover{
-        background-color: black;
-        color: red;
-    
-    }
-    
-    .logo img{
-        float: left;
-        width: 50px;
-        height: auto;
-    }
-    .main{
-        max-width: 120px;
-        margin: auto;
-        }
-       
-   

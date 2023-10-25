@@ -1,3 +1,46 @@
+img{
+    height: 500px;
+    width: 500px;
+    height: 500px;
+    margin: 20px 20px 20px 20px;
+    border-style:solid;
+    border-width: 50px;
+    border: 50px groove red;
+    
+    
+    
+
+}
+body{
+    
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+  background-color: aqua;
+
+
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: red;
+
+}
+a:active{
+    color: blue;
+
+}
+a:hover{
+    color: green;
+
+}
+a:visited{
+    color: brown;
+}
+
+ul{
+    list-style-type: circle;
+}
 *{
     margin: 0px;
     padding: 0px;
@@ -47,6 +90,4 @@ ul li a:hover{
     max-width: 120px;
     margin: auto;
     }
-    body{
-        background-color: coral;
-    }
+   

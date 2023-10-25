@@ -1,3 +1,7 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
 *{
     margin: 0px;
     padding: 0px;
@@ -19,6 +23,7 @@ ul{
     font-size: 17px;
 }
 #kam{
+    
     
 }
 ul li{
@@ -47,6 +52,4 @@ ul li a:hover{
     max-width: 120px;
     margin: auto;
     }
-    body{
-        background-color: coral;
-    }
+   

@@ -1,3 +1,48 @@
+body{
+    background-color:pink;
+    
+    
+}
+form{
+    background-color: white;
+    width: fit-content ;
+    margin-left: 250px;
+    height: 300px;
+    
+    
+}
+button{
+    color: aqua;
+    background-color: dodgerblue;
+     
+     width: 200px;
+     
+     
+    
+}
+#ko{
+    margin-left: 250px;
+}
+#yo{
+    margin-left: 250px;
+}
+#rs{
+    margin-left: 70px;
+    
+    
+    
+}
+#to{
+    margin-left: 50px;
+}
+h2{
+    margin-left: 50px;
+    padding-top: 20px;
+}
+input{
+    margin-left: 50px;
+
+}
 *{
     margin: 0px;
     padding: 0px;
@@ -47,6 +92,4 @@ ul li a:hover{
     max-width: 120px;
     margin: auto;
     }
-    body{
-        background-color: coral;
-    }
+   

@@ -2,7 +2,7 @@ body{
     background-color: aqua;
     text-align: center;
 }
-*{
+ *{
     margin: 0px;
     padding: 0px;
     font-family: century;
@@ -52,4 +52,13 @@ ul li a:hover{
     max-width: 120px;
     margin: auto;
     }
+.mak{
+    border: solid 20px;
+    color: floralwhite;
+    width: fit-content;
+    margin-left: 40%;
+}
+.rols{
+    text-align: center  ;
+}
    

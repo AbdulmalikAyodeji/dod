@@ -48,5 +48,14 @@ ul li a:hover{
     margin: auto;
     }
     body{
-        background-color: coral;
+      background-color: peru;
+      width: fit-content;
+      
+    }
+    img{
+        width: 100%;
+    }
+    .mayor{
+    
+        
     }
